@@ -1,0 +1,142 @@
+div.main__pdd__content {
+   
+    width: 100%;
+    padding-right: 17%;
+    padding-top: 1%;
+}
+
+div.main__pdd__content__zagolovok {
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+}
+div.main_pdd_content__photo img  {
+    width: 60%;
+    
+}
+div.main_pdd_content__photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+hr.main__pdd__content__line {
+    margin-bottom: 2%;
+    border: 1px solid grey;
+}
+ul.main__pdd__content__rules__ul {
+    list-style: disc;
+    margin-left: 5%;
+}
+ul.main__pdd__content__rules__ul li {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'Onest', sans-serif;
+    
+}
+div.main__pdd__content__rules {
+    padding-left: 7%;
+    display: flex;
+}
+h4#pdd__zag {
+    padding-bottom: 2%;
+    font-family: 'Onest', sans-serif;
+}
+img#teddy {
+    width: 100%;
+}
+div.main_autumn_fair_content__photo img  {
+    width: 50%;
+    
+}
+div.main_autumn_fair_content__photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2%;
+    
+
+}
+div.main__autumn_fair__content {
+    width: 100%;
+    padding-right: 17%;
+    padding-top: 1%;
+}
+div.main__autumn_fair__content__zagolovok {
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+}
+hr.main__autumn_fair__content__line {
+    margin-bottom: 2%;
+    border: 1px solid grey;
+}
+div.main__autumn_fair__content__description {
+    font-family: 'Onest', sans-serif;
+}
+div.main__vkusnoe_leto__content__zagolovok {
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+}
+div.main__vkusnoe_leto__content__photo img  {
+    width: 50%;
+    
+}
+div.main__vkusnoe_leto__content__photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-bottom: 2%;
+    
+
+}
+div.main__vkusnoe_leto__content {
+    width: 100%;
+    padding-right: 17%;
+    padding-top: 1%;
+}
+div.main__vkusnoe_leto__content {
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+}
+hr.main__vkusnoe_leto__content__line {
+    margin-bottom: 2%;
+    border: 1px solid grey;
+}
+div.main__vkusnoe_leto__content__description {
+    font-family: 'Onest', sans-serif;
+}
+div.main__footer {
+    width: 100%;
+    
+}
+div.main__footer__content {
+    width: 100%;
+    padding-right: 17%;
+    padding-top: 1%;
+}
+div.main__footer__content__zagolovok {
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+}
+div.main__footer__content__description {
+    display: flex;
+    padding-top: 3%;
+    padding-bottom: 3%;
+
+}
+
+div.main__footer__content__description__block1 {
+    width: 33%;
+}
+div.main__footer__content__description__block2 {
+    width: 33%;
+}
+div.main__footer__content__description__block3 {
+    width: 33%;
+}
+div.main__footer__content__description a {
+    font-family: 'Onest', sans-serif;
+}
+div.main__footer__content__description a:hover {
+    text-decoration: underline;
+}
